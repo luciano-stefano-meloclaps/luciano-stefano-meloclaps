@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | UX/UI Designer</h3>
 
 <p align="center">
-  <a href="[www.linkedin.com/in/luciano-stefano-melo-claps](https://www.linkedin.com/in/luciano-melo-claps/)">
+  <a href="https://www.linkedin.com/in/luciano-melo-claps/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:meloclapsluciano@gmail.com">
