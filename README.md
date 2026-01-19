@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | UX/UI Designer</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/luciano-stefano-melo-claps">
+  <a href="[www.linkedin.com/in/luciano-stefano-melo-claps](https://www.linkedin.com/in/luciano-melo-claps/)">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:meloclapsluciano@gmail.com">
@@ -27,12 +27,12 @@ I Software Developer | .NET & React and build full-stack applications with a str
 <h3 align="center">📊 GitHub Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luciano-meloclaps&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luciano-stefano-meloclaps&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=luciano-meloclaps&show_icons=true&theme=radical" alt="Stats Card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luciano-stefano-meloclaps&show_icons=true&theme=radical" alt="Stats Card" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luciano-meloclaps&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luciano-stefano-meloclaps&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
