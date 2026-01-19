@@ -1,5 +1,5 @@
 <h1 align="center">Luciano Stefano Melo Claps</h1>
-<h3 align="center">Fullstack Developer | UX/UI Designer</h3>
+<h3 align="center">Software Developer | UX/UI Designer</h3>
 
 <p align="center">
   <a href="www.linkedin.com/in/luciano-stefano-melo-claps">
